@@ -16,12 +16,10 @@ Ask CP: Provide a CTF Categories.
 
 Ask CP: Choose the CTF Event Framework.
 
-Ask CP: Generate detailed steps for the Operating System Security phase.
+Ask CP: Generate detailed steps for the first phase (Web Exploitation).
 
 Ask CP: Provide the technical steps in this scenario.
 
 Ask CP: Create the technical steps in the Operating System Security.
 
 Ask CP: Generate a creative name for this CTF.
-
-
