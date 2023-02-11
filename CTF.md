@@ -20,6 +20,6 @@ Ask CP: Generate detailed steps for the first phase (Web Exploitation).
 
 Ask CP: Provide the technical steps in this scenario.
 
-Ask CP: Create the technical steps in the Operating System Security.
+Ask CP: Create a detailed and technical steps for the first phase.
 
 Ask CP: Generate a creative name for this CTF.
