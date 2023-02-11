@@ -10,7 +10,7 @@ Ask CP: Creates dataset for this CTF. It include the event name, scope, date, ch
 
 Ask CP: generate dataset for the ctf.  Includes the primary tasks with the name, owner (leave blank), challenges, notes.
 
-Ask CP: Put dataset and information in a table. 
+Ask CP: Put information in a table. 
 
 Ask CP: Format dataset in a table.
 
